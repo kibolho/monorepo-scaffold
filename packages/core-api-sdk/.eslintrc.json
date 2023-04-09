@@ -1,0 +1,4 @@
+{
+  "extends": "@kibolho/eslint-config",
+  "ignorePatterns": ["types.ts"]
+}

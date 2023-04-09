@@ -1,0 +1,5 @@
+{
+  "extends": "@kibolho/ts-config/react-jsx.json",
+  "include": ["src"],
+  "references": [{ "path": "./tsconfig.node.json" }]
+}

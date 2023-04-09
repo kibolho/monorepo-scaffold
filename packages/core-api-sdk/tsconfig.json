@@ -1,0 +1,11 @@
+{
+  "extends": "@kibolho/ts-config/base.json",
+  "include": ["src"],
+  "exclude": ["dist", "coverage"],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "types": ["@types/jest"],
+    "lib": ["DOM", "ESNext"],
+    "typeRoots": ["node_modules/@types"]
+  }
+}

@@ -1,0 +1,1 @@
+# @kibolho/ts-config
